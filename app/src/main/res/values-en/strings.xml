@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Movie Catalogue 2</string>
+    <string name="title_film">Movie</string>
+    <string name="title_tv">TV Show</string>
+    <string name="title_notifications">Favourites</string>
+    <string name="judul">Movie Name</string>
+    <string name="judulnya">Name : </string>
+    <string name="taun">Year : </string>
+    <string name="change_language_settings">Change Languange Setting</string>
+    <string name="sino">Synopsis</string>
+    <string name="addfav">Added to Favorite</string>
+    <string name="remfav">Removed from Favorite</string>
+    <string name="carimovie">Search Movie</string>
+    <string name="caritv">Search TV Show</string>
+    <string name="notifharian">Lets check your favorite movie !</string>
+    <string name="rilis">Released Today !</string>
+    <string name="harian">Daily Reminder Notification</string>
+    <string name="baru">New Release Movie Reminder</string>
+    <string name="settingnotif">Notification Setting</string>
+    <string name="film_favorit">Favorite Movie</string>
+    <string name="data_favorit">No favorite movies have been added</string>
+
+
+
+    <array name="poster_film">
+        <item>@drawable/poster_a_start_is_born</item>
+        <item>@drawable/poster_alita</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_cold_persuit</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_crimes</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_how_to_train</item>
+        <item>@drawable/poster_infinity_war</item>
+    </array>
+    <array name="poster_tv">
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_doom_patrol</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_god</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_grey_anatomy</item>
+        <item>@drawable/poster_hanna</item>
+    </array>
+
+    <string-array name="sinopsis">
+        <item>A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.</item>
+        <item>A deactivated female cyborg is revived, but cannot remember anything of her past life and goes on a quest to find out who she is. </item>
+        <item>Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.</item>
+        <item>The story of the legendary rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).</item>
+        <item>A grieving snowplow driver seeks out revenge against the drug dealers who killed his son. Based on the 2014 Norwegian film In Order of Disappearance.</item>
+        <item>Under the tutelage of Rocky Balboa, newly crowned heavyweight champion Adonis Creed faces off against Viktor Drago, the son of Ivan Drago. </item>
+        <item>The second installment of the "Fantastic Beasts" series featuring the adventures of Magizoologist Newt Scamander. </item>
+        <item>Security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities.</item>
+        <item>When Hiccup discovers Toothless isnt the only Night Fury, he must seek The Hidden World, a secret Dragon Utopia before a hired tyrant named Grimmel finds it first. </item>
+        <item>The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.</item>
+    </string-array>
+    <string-array name="sinopsis_tv">
+        <item>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow. </item>
+        <item>The adventures of an idealistic mad scientist and his field team of superpowered outcasts. </item>
+        <item>Dragon Ball tells the tale of a young warrior by the name of Son Goku, a young peculiar boy with a tail who embarks on a quest to become stronger and learns of the Dragon Balls, when, once all 7 are gathered, grant any wish of choice. </item>
+        <item>Lucy, an aspiring Celestial Wizard, becomes a friend and ally to powerful wizards Natsu, Gray, and Erza, who are part of the (in)famous wizard guild, Fairy Tail.</item>
+        <item>In a wacky Rhode Island town, a dysfunctional family strive to cope with everyday life as they are thrown from one crazy scenario to another. </item>
+        <item>After being struck by lightning, Barry Allen wakes up from his coma to discover he is been given the power of super speed, becoming the Flash, fighting crime in Central City.</item>
+        <item>Nine noble families fight for control over the mythical lands of Westeros, while an ancient enemy returns after being dormant for thousands of years. </item>
+        <item>The story behind Detective James Gordon rise to prominence in Gotham City in the years before Batman arrival.</item>
+        <item>A drama centered on the personal and professional lives of five surgical interns and their supervisors. </item>
+        <item>In equal parts high-concept thriller and coming-of-age drama, HANNA follows the journey of an extraordinary young girl raised in the forest, as she evades the relentless pursuit of an off-book CIA agent and tries to unearth the truth behind who she is. </item>
+    </string-array>
+</resources>

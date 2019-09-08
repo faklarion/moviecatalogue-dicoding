@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Movie Catalogue 2</string>
+    <string name="title_film">Film</string>
+    <string name="title_tv">Serial TV</string>
+    <string name="title_notifications">Favorit</string>
+    <string name="judul">Judul Film</string>
+    <string name="judulnya">Judul : </string>
+    <string name="taun">Tahun : </string>
+    <string name="change_language_settings">Pengaturan Ganti Bahasa</string>
+    <string name="sino">Sinopsis</string>
+    <string name="addfav">Ditambahkan ke Favorit</string>
+    <string name="remfav">Menghapus dari Favorit</string>
+    <string name="carimovie">Cari Film</string>
+    <string name="caritv">Cari Serial TV</string>
+    <string name="notifharian">Ayo cek film favoritmu !</string>
+    <string name="rilis">Telah rilis hari ini !</string>
+    <string name="harian">Notifikasi Pengingat Harian</string>
+    <string name="baru">Notifikasi Film Baru Rilis</string>
+    <string name="settingnotif">Pengaturan Notifikasi</string>
+    <string name="film_favorit">Film Favoritmu</string>
+    <string name="data_favorit">Tidak ada film favorit yang ditambahkan</string>
+
+
+    <array name="poster_film">
+        <item>@drawable/poster_a_start_is_born</item>
+        <item>@drawable/poster_alita</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_cold_persuit</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_crimes</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_how_to_train</item>
+        <item>@drawable/poster_infinity_war</item>
+    </array>
+    <array name="poster_tv">
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_doom_patrol</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_god</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_grey_anatomy</item>
+        <item>@drawable/poster_hanna</item>
+    </array>
+    <string-array name="sinopsis">
+        <item>Seorang bintang musik country yang karirnya mulai memudar, Jackson Maine (Bradley Cooper) menemukan sebuah talenta yang sangat berbakat di dalam diri dari seorang musisi muda bernama Ally (Lady Gaga).</item>
+        <item>Ketika Alita terbangun tanpa ingatan tentang siapa dia di dunia masa depan yang tidak dia kenal, dia ditangkap oleh Ido, seorang dokter yang penuh kasih yang menyadari bahwa di suatu tempat dalam cangkang cyborg yang ditinggalkan ini adalah hati dan jiwa seorang wanita muda dengan luar biasa.</item>
+        <item>Film ini mengungkap asal-usul Arthur Curry, manusia perkasa yang bisa mengendalikan air dan hewan laut. Dari mana ia mendapatkan kekuatannya? Siapa orang tuanya, dan pantaskah dia menjadi seorang raja di 7samudera?</item>
+        <item>BOHEMIAN RHAPSODY adalah film yang diangkat dari kisah nyata untuk merayakan musik band Rock legendaris QUEEN dan tentunya vokalis mereka yang luar biasa, FREDDIE MERCURY, yang dikenal menentang tradisi dan stereotip hingga menjadi salah satu penghibur yang paling dicintai di planet ini.</item>
+        <item>Nelson (Liam Neeson) adalah petugas pembersih salju di sebuah kota kecil. Kehidupan tenangnya bersama istri dan anaknya mendadak berubah saat putra mereka terbunuh oleh kartel narkoba.</item>
+        <item>Adonis Johnson, putra juara tinju kelas berat Apollo Creed, meneruskan "warisan" ayahnya sebagai petinju dan mulai berlatih pada Rocky Balboa, teman lama sekaligus rival berat ayahnya.</item>
+        <item>Film kedua dari seri Fantastic Beasts ini akan melanjutkan kisah Newt Scamander (Eddie Redmayne) untuk kembali menangkap Gellert Grindelwald (Johnny Depp) yang berhasil lolos dari penjara. Bersama Albus Dumbledore (Jude Law) Newt harus bisa menghentikan Grindelwald yang ingin menghancurkan tatanan dunia.</item>
+        <item>Film Glass akan melanjutkan kisah pencarian Kevin Wendell Crumb yang hmelarikan diri setelah menculik para gadis. Kevin Wendel Crumbang memiliki 20 kepribadian dalam satu jiwa ini bisa berubah menjadi seorang monster saat pribadinya yang bernama The Beast muncul.</item>
+        <item>Di film ketiganya ini akan berkisah tentang Hiccup (Jay Baruchel) yang berusaha memenuhi impiannya untuk menciptakan sebuah negeri impian bagi para Viking dan naga.</item>
+        <item>The Avengers dan sekutu mereka harus bersedia mengorbankan segalanya dalam upaya untuk mengalahkan Thanos yang kuat sebelum ia berhasil menghancurkan alam semesta.</item>
+    </string-array>
+
+    <string-array name="sinopsis_tv">
+        <item>Serial Arrow menceritakan tentang Oliver Queen (Stephen Amell), seorang miliuner yang menjadi penegak hukum di Starling City setelah kapalnya karam dan terdampar di pulau yang berbahaya selama lima tahun. Oliver Queen memilih senjata panah.</item>
+        <item>Doom Patrol merupakan kisah sekelompok superhero dari komik DC yang terdiri dari: Robotman, Negative Man, Elasti-Girl dan Crazy Jane. Dipimpin oleh Dr. Niles Caulder (The Chief), mereka mendapatkan kekuatan dan kemampuan karena mengalami peristiwa yang sangat mengenaskan. Hal tersebut membuat mereka ditakuti dan trauma. Namun, mereka mendapat semangat hidup dan mempunyai peran dalam masyarakat berkat pimpinan dan arahan dari The Chief.</item>
+        <item>Dragon Ball bercerita tentang seorang bocah bernama Goku yang hidup di tengah gunung sendirian. Dia lalu bertemu dengan Bulma, seorang gadis muda genius, yang berusaha mengumpulkan 7 bola ajaib yang katanya bisa mengabulkan semua keinginan. Bola-bola tersebut dinamakan Dragon Ball.</item>
+        <item>Earth-land merupakan dunia di mana para penyihir dapat bergabung dengan guild (perkumpulan sihir) untuk menerapkan kemampuan sihir mereka demi mendapatkan bayaran atas hasil kerja yang mereka lakukan. Natsu Dragneel, seorang penyihir dragon slayer dari guild Fairy Tail, bertualang di Kerajaan Fiore demi menemukan ayah angkatnya yang hilang, seekor naga bernama Igneel.</item>
+        <item>Menceritakan tentang keluarga Griffin yang terdiri dari Peter, Lois, anak-anak mereka Chris, Meg dan Stewie dan seekor anjing yang dapat berbicara bernama Brian.</item>
+        <item>Diceritakan bahwa Barry Allen, seorang asisten ahli forensik terkena sambaran petir yang diakibatkan oleh meledaknya Partikel Akselerator milik laboratorium S.T.A.R.</item>
+        <item>Game of Thrones diangkat dari novel berjudul A Song of Ice and Fire karya George R. R. Martin yang menceritakan kehidupan beberapa kerajaan di benua fiksi.</item>
+        <item>Gotham adalah TV Series drama/kriminal buatan Amerika yang akan menceritakan awal kisah James Gordon sebelum kemunculan Batman.</item>
+        <item>Grey Anatomy menceritakan tentang kisah kehidupan dunia kedokteran khususnya dokter bedah</item>
+        <item>Gadis 16 tahun dibesarkan oleh ayahnya untuk menjadi seorang pembunuh sempurna, dan dikirim dalam misi ke seluruh Eropa, terlacak oleh agen intelijen kejam dan mata-matanya. Star: Cate Blanchett.</item>
+    </string-array>
+
+</resources>
