@@ -59,7 +59,8 @@ public class FavoriteWidget extends AppWidgetProvider {
         ComponentName thisAppWidget = new ComponentName(context.getPackageName(), FavoriteWidget.class.getName());
         int[] appWidgetIds = appWidgetManager.getAppWidgetIds(thisAppWidget);
         appWidgetManager.notifyAppWidgetViewDataChanged(appWidgetIds, R.id.stack_view);
-
+        onUpdate(context, appWidgetManager, appWidgetIds);
         super.onReceive(context, intent);
     }
+
 }

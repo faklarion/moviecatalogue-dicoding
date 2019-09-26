@@ -36,7 +36,6 @@ public class StackRemoteViewsFactory implements RemoteViewsService.RemoteViewsFa
         helper.open();
         movieList = new ArrayList<>();
         movieList.addAll(helper.getData());
-        helper.close();
     }
 
     @Override

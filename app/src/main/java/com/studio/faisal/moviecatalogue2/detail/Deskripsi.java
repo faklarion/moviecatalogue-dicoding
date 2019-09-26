@@ -21,6 +21,8 @@ import com.studio.faisal.moviecatalogue2.favoritemovie.DataMovie;
 import com.studio.faisal.moviecatalogue2.favoritemovie.DatabaseContract;
 import com.studio.faisal.moviecatalogue2.favoritemovie.DatabaseHelper;
 import com.studio.faisal.moviecatalogue2.favoritemovie.MovieHelper;
+import com.studio.faisal.moviecatalogue2.widget.FavoriteWidget;
+import com.studio.faisal.moviecatalogue2.widget.FavoriteWidgetService;
 
 import static android.provider.BaseColumns._ID;
 import static com.studio.faisal.moviecatalogue2.favoritemovie.DatabaseContract.CONTENT_URI;
@@ -86,6 +88,7 @@ public class Deskripsi extends AppCompatActivity {
                                 getContentResolver().insert(CONTENT_URI,values);
                                 Snackbar.make(buttonView, getResources().getString(R.string.addfav),
                                         Snackbar.LENGTH_SHORT).show();
+                                FavoriteWidget favoriteWidget = new FavoriteWidget();
                             } else {
                                 getContentResolver().delete(Uri.parse(CONTENT_URI + "/" + movie_id),null,null);;
                                 Snackbar.make(buttonView, getResources().getString(R.string.remfav),
